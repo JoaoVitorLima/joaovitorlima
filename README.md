@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Joao and I'm a Java developer building the foundation for robust and scalable applications.
+
+- 🔭 I’m currently working on deepening my expertise in building **enterprise-level Java applications** and Spring Framework (Boot, MVC, Data), JPA/Hibernate.
+- 🌱 I’m currently learning **AWS** – diving into core services like EC2, S3, and RDS to understand cloud-native architecture.
+- 👯 I’m looking to collaborate on **ambitious projects** with experienced teams. I'm eager to contribute to large-scale systems and learn from best practices in the industry.
+
 <!--
 **JoaoVitorLima/joaovitorlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
